@@ -12,8 +12,6 @@ cast_bool2 = bool(var_str)
 cast_bool3 = bool(var_int2)
 cast_bool4 = bool(var_str2)
 
-
-
 # print(cast_int)
 # print(cast_int2)
 # print(type(cast_int2))

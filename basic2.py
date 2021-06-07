@@ -85,9 +85,7 @@ data_dict = {
     "hobbies" : ["coding", "sleeping", "mancing"]
 }
 
-
 # print(data_dict)
-
 data_dict["address"] = "jember"
 data_dict["name"] = "jaya"
 
